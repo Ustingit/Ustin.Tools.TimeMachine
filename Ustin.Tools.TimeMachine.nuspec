@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+    <metadata>
+        <id>ustin.tools.timemachine</id>
+        <version>1.0.0</version>
+        <title>Ustin.Tools.TimeMachine</title>
+        <authors>Yuryi Ustsinovich</authors>
+        <owners>Yuryi Ustsinovich</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Simple tool to imitate time flow so you can execute some code on each iteration (tick in the context of this package)</description>
+        <releaseNotes>Add main abstractions and first version of time iterator</releaseNotes>
+        <tags>timer,dotnet,tools</tags>
+    </metadata>
+</package>
