@@ -6,7 +6,7 @@
         <title>Ustin.Tools.TimeMachine</title>
         <authors>Yuryi Ustsinovich</authors>
         <owners>Yuryi Ustsinovich</owners>
-        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <requireLicenseAcceptance>true</requireLicenseAcceptance>
         <description>Simple tool to imitate time flow so you can execute some code on each iteration (tick in the context of this package)</description>
         <releaseNotes>Add main abstractions and first version of time iterator</releaseNotes>
         <tags>timer,dotnet,tools</tags>
